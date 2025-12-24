@@ -1,0 +1,248 @@
+2025-12-22 17:06:08,500 - INFO - ====== WebDriver manager ======
+2025-12-22 17:06:09,722 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-22 17:06:10,299 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-22 17:06:10,856 - INFO - Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-22 17:06:14,191 - INFO - patching driver executable C:\Users\Admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-22 17:07:23,579 - INFO - patching driver executable C:\Users\Admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-22 17:07:26,228 - ERROR - Driver creation error: you cannot reuse the ChromeOptions object
+2025-12-22 17:08:27,639 - INFO - ====== WebDriver manager ======
+2025-12-22 17:08:28,648 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-22 17:08:29,174 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-22 17:08:29,688 - INFO - Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-22 17:08:33,000 - INFO - patching driver executable C:\Users\Admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-22 17:09:40,965 - INFO - patching driver executable C:\Users\Admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-22 17:10:48,382 - ERROR - Driver creation error: Message: session not created: cannot connect to chrome at 127.0.0.1:64937
+from chrome not reachable; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xb312d3
+	0xb31314
+	0x91e52b
+	0x911e56
+	0x9597b3
+	0x94fbe5
+	0x94fa16
+	0x997826
+	0x997047
+	0x98b2e6
+	0x95d321
+	0x95e1d4
+	0xd85314
+	0xd808cb
+	0xd9d1aa
+	0xb4b1d8
+	0xb531dd
+	0xb395d8
+	0xb39799
+	0xb23b28
+	0x7708fcc9
+	0x77ae82ae
+	0x77ae827e
+
+2025-12-22 17:11:25,327 - INFO - ====== WebDriver manager ======
+2025-12-22 17:11:26,593 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-22 17:11:27,107 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-22 17:11:27,613 - INFO - Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-22 17:11:30,333 - ERROR - Standard Selenium driver creation failed: Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x12c12d3
+	0x12c1314
+	0x10ae6dd
+	0x10e4b37
+	0x10dfafa
+	0x1127826
+	0x1127047
+	0x111b2e6
+	0x10ed321
+	0x10ee1d4
+	0x1515314
+	0x15108cb
+	0x152d1aa
+	0x12db1d8
+	0x12e31dd
+	0x12c95d8
+	0x12c9799
+	0x12b3b28
+	0x7708fcc9
+	0x77ae82ae
+	0x77ae827e
+
+2025-12-22 17:11:30,937 - INFO - patching driver executable C:\Users\Admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-22 17:12:39,254 - INFO - patching driver executable C:\Users\Admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-22 17:13:46,806 - ERROR - Driver creation error: Message: session not created: cannot connect to chrome at 127.0.0.1:65213
+from chrome not reachable; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x5912d3
+	0x591314
+	0x37e52b
+	0x371e56
+	0x3b97b3
+	0x3afbe5
+	0x3afa16
+	0x3f7826
+	0x3f7047
+	0x3eb2e6
+	0x3bd321
+	0x3be1d4
+	0x7e5314
+	0x7e08cb
+	0x7fd1aa
+	0x5ab1d8
+	0x5b31dd
+	0x5995d8
+	0x599799
+	0x583b28
+	0x7708fcc9
+	0x77ae82ae
+	0x77ae827e
+
+2025-12-22 17:14:04,023 - INFO - ====== WebDriver manager ======
+2025-12-22 17:14:05,022 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-22 17:14:05,534 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-22 17:14:06,025 - INFO - Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-22 17:14:11,878 - INFO - 🔍 Looking for login button...
+2025-12-22 17:14:11,958 - INFO - 🔄 No visible login button found, trying direct login URL...
+2025-12-22 17:14:16,838 - INFO - 🔐 Attempting to fill Reddit login form...
+2025-12-22 17:14:19,901 - INFO - 📸 Screenshot saved: reddit_login_current_view.png
+2025-12-22 17:14:19,901 - INFO - 🔍 METHOD 1: Looking for specific fields from image...
+2025-12-22 17:14:19,913 - INFO - 📋 Found 0 total input fields on page
+2025-12-22 17:14:19,913 - INFO - 👀 0 visible input fields
+2025-12-22 17:14:19,955 - INFO - ✅ Found username field: name='username'
+2025-12-22 17:14:20,097 - INFO - ✅ Found password field: name='password'
+2025-12-22 17:14:20,149 - INFO - ✍️ Filling login fields...
+2025-12-22 17:14:20,163 - ERROR - Error filling username: Message: invalid element state
+  (Session info: chrome=143.0.7499.109)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x12c12d3
+	0x12c1314
+	0x10ae52b
+	0x10f0b8a
+	0x111b4ec
+	0x10eec34
+	0x111b6a4
+	0x113db13
+	0x111b2e6
+	0x10ed321
+	0x10ee1d4
+	0x1515314
+	0x15108cb
+	0x152d1aa
+	0x12db1d8
+	0x12e31dd
+	0x12c95d8
+	0x12c9799
+	0x12b3b28
+	0x7708fcc9
+	0x77ae82ae
+	0x77ae827e
+
+2025-12-22 17:14:21,332 - ERROR - Error filling password: Message: invalid element state
+  (Session info: chrome=143.0.7499.109)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x12c12d3
+	0x12c1314
+	0x10ae52b
+	0x10f0b8a
+	0x111b4ec
+	0x10eec34
+	0x111b6a4
+	0x113db13
+	0x111b2e6
+	0x10ed321
+	0x10ee1d4
+	0x1515314
+	0x15108cb
+	0x152d1aa
+	0x12db1d8
+	0x12e31dd
+	0x12c95d8
+	0x12c9799
+	0x12b3b28
+	0x7708fcc9
+	0x77ae82ae
+	0x77ae827e
+
+2025-12-22 17:14:22,440 - INFO - 🔘 Attempting to submit login form...
+2025-12-22 17:14:22,491 - INFO - ✅ Pressed Enter on password field
+2025-12-22 17:14:35,700 - INFO - ❌ No login indicators found
+2025-12-22 17:15:31,479 - INFO - ====== WebDriver manager ======
+2025-12-22 17:15:32,464 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-22 17:15:32,962 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-22 17:15:33,461 - INFO - Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-22 17:15:39,345 - INFO - 🔍 Looking for login button...
+2025-12-22 17:15:39,429 - INFO - 🔄 No visible login button found, trying direct login URL...
+2025-12-22 17:15:44,823 - INFO - 🔐 Attempting to fill Reddit login form...
+2025-12-22 17:15:47,883 - INFO - 📸 Screenshot saved: reddit_login_current_view.png
+2025-12-22 17:15:47,884 - INFO - 🔍 METHOD 1: Looking for specific fields from image...
+2025-12-22 17:15:47,894 - INFO - 📋 Found 0 total input fields on page
+2025-12-22 17:15:47,895 - INFO - 👀 0 visible input fields
+2025-12-22 17:15:47,941 - INFO - ✅ Found username field: name='username'
+2025-12-22 17:15:48,086 - INFO - ✅ Found password field: name='password'
+2025-12-22 17:15:48,144 - INFO - ✍️ Filling login fields...
+2025-12-22 17:15:48,237 - ERROR - Error filling username with send_keys: Message: invalid element state
+  (Session info: chrome=143.0.7499.109)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x12c12d3
+	0x12c1314
+	0x10ae52b
+	0x10f0b8a
+	0x111b4ec
+	0x10eec34
+	0x111b6a4
+	0x113db13
+	0x111b2e6
+	0x10ed321
+	0x10ee1d4
+	0x1515314
+	0x15108cb
+	0x152d1aa
+	0x12db1d8
+	0x12e31dd
+	0x12c95d8
+	0x12c9799
+	0x12b3b28
+	0x7708fcc9
+	0x77ae82ae
+	0x77ae827e
+
+2025-12-22 17:15:48,241 - INFO - ⚠️ Falling back to JavaScript injection...
+2025-12-22 17:15:48,329 - INFO - 📧 Entered username/email: sifat70...
+2025-12-22 17:15:49,405 - ERROR - Error filling password with send_keys: Message: invalid element state
+  (Session info: chrome=143.0.7499.109)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x12c12d3
+	0x12c1314
+	0x10ae52b
+	0x10f0b8a
+	0x111b4ec
+	0x10eec34
+	0x111b6a4
+	0x113db13
+	0x111b2e6
+	0x10ed321
+	0x10ee1d4
+	0x1515314
+	0x15108cb
+	0x152d1aa
+	0x12db1d8
+	0x12e31dd
+	0x12c95d8
+	0x12c9799
+	0x12b3b28
+	0x7708fcc9
+	0x77ae82ae
+	0x77ae827e
+
+2025-12-22 17:15:49,407 - INFO - ⚠️ Falling back to JavaScript injection...
+2025-12-22 17:15:49,427 - INFO - 🔑 Entered password
+2025-12-22 17:15:50,429 - INFO - 🔘 Attempting to submit login form...
+2025-12-22 17:15:50,480 - INFO - ✅ Pressed Enter on password field
+2025-12-22 17:16:03,680 - INFO - ❌ No login indicators found
